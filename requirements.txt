@@ -1,0 +1,8 @@
+GDAL==3.4.3
+geopandas==0.10.2
+landsatxplore==0.13.0
+matplotlib==3.5.1
+numpy==1.22.2
+osgeo==0.0.1
+scipy==1.6.2
+xlrd==2.0.1
